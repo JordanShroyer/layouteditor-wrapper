@@ -1,3 +1,5 @@
+### NOTES: 
+
 from __future__ import division
 import numpy as np
 # This should be from layouteditor import interface, but that doesn't resolve currently.
